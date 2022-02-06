@@ -7,4 +7,6 @@ Using the standard work hour time block when viewing each time block is color-co
 When you click the save button for that time block the text for that event is saved in local storage and you can refresh the page to see the info stays.
 
 
+Deployed - https://drewk2629.github.io/work-scheduler/
+
 ![01](https://user-images.githubusercontent.com/94206317/152701684-3642136b-ebbb-47df-9598-f7f3b1858059.png)
